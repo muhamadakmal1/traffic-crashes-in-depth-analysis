@@ -62,7 +62,7 @@ Use clustering or predictive models for crash severity forecasting.
 🧑‍💻 Author <br>
 Muhamad Akmal<br>
 Aspiring Data Scientist & MERN Developer<br>
-📫 LinkedIn | GitHub
+📫 <a href="https://www.linkedin.com/in/muhamadakmal019/">LinkedIn | <a href = "https://github.com/muhamadakmal1/">GitHub</a>
 
 <br>
 📄 License<br>
